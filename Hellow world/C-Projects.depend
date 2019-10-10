@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1569815375 source:c:\users\idea3c\desktop\c-projects\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1569809705 source:c:\users\idea3c\desktop\c-projects\test.c
+	<stdio.h>
+	<stdlib.h>
+
+1570693009 source:c:\users\idea3c\desktop\c-projects\practice 1-rectangle.c
+	<stdio.h>
+	<stdlib.h>
+
+1570693053 source:c:\users\idea3c\desktop\c-projects\hellow world\main.c
+	<stdio.h>
+	<stdlib.h>
+
