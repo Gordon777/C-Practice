@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510494242 source:c:\users\idea3c\desktop\c-projects\c-practice\variables-and-data-types-create-and-use-an-enum-type\main.c
+	<stdio.h>
+	<stdlib.h>
+
