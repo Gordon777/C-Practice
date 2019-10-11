@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510742356 source:c:\users\idea3c\desktop\c-projects\c-practice\operators-convert-minutes-to-years-and-days\main.c
+	<stdio.h>
+	<stdlib.h>
+
