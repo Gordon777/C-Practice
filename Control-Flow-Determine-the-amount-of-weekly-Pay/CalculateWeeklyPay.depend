@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510821872 source:c:\users\idea3c\desktop\c-projects\control-flow-determine-the-amount-of-weekly-pay\main.c
+	<stdio.h>
+	<stdlib.h>
+
